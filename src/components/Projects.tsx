@@ -1,8 +1,20 @@
 const projects = [
 	{
+		name: 'theoracl3.com',
+		url: 'https://theoracl3.com',
+		description: 'AI Agent - SMS Dating Coach',
+		status: 'Active'
+	},
+	{
+		name: 'thelastpaywall.com',
+		url: 'https://thelastpaywall.com',
+		description: 'AI Agent - Summarizes News Behind Paywalls',
+		status: 'Inactive'
+	},
+	{
 		name: '1clave.com',
 		url: 'https://1clave.com',
-		description: 'Digital authentication platform',
+		description: 'Password manager for LATAM companies.',
 		status: 'Active'
 	},
 	{
@@ -39,18 +51,6 @@ const projects = [
 		name: 'sophrosyn3.com',
 		url: 'https://sophrosyn3.com',
 		description: 'Scalping Stock Calculator',
-		status: 'Active'
-	},
-	{
-		name: 'thelastpaywall.com',
-		url: 'https://thelastpaywall.com',
-		description: 'AI Agent - Summarizes News Behind Paywalls',
-		status: 'Active'
-	},
-	{
-		name: 'theoracl3.com',
-		url: 'https://theoracl3.com',
-		description: 'AI Agent - SMS Dating Coach',
 		status: 'Active'
 	},
 	{
