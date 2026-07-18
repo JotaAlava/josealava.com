@@ -1,5 +1,12 @@
 const projects = [
 	{
+		name: 'PennyFinch',
+		url: 'https://pennyfinch.com',
+		description: 'All your money in one dashboard — spending, cash flow, net worth, and subscriptions.',
+		status: 'Active',
+		weight: 7
+	},
+	{
 		name: 'Going Du7ch',
 		url: 'https://www.goingdu7ch.com',
 		description: 'Split bills with friends, fairly and in real-time.',
